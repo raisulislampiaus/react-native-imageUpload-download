@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">uploadImage</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">p_WnrkDoaLn8xc0BmDbnxN4ygkeMYVaCFdsaG</string>
+</resources>
